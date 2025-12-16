@@ -1,7 +1,9 @@
 # Linguagem de Programação I
 
 ## Identificação - Expectativas - Interesses
+
 **Nome Completo:** Francisco Vander Xavier dos Santos Junior
+
 **Curso e Turma:** Computação Licenciatura - UAB/UECE Caucaia
 
 **O que espero aprender:**
